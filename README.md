@@ -1,0 +1,2 @@
+# Vue2_city_picker
+一个基于vue2的移动端省市区三级联动控件，基于jquery思想
